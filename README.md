@@ -2,6 +2,6 @@
 
 Simple React eksempler til undervisningsbrug.
 
-## API brug til eksempler:
+## API brugt til eksempler:
 
 https://github.com/DDollerup/TesterAPI
